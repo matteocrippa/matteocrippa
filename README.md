@@ -13,9 +13,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Github Stats
+## Who am I
 
-### Overall stats
+It has all started with an 🖥️ IBM 8088 and a 📘 book about Basic. And a few 5.12" 💾 floppy disks.
+
+Speaker & tech advisor during developer conferences. 
+
+Creatore of ![Awesome Swift](https://github.com/matteocrippa/awesome-swift) just as soon back from WWDC 2014.
+
+Proud contributor in different open source projects ![Flutter](https://github.com/flutter/flutter) ![CareKit](https://github.com/carekit-apple/CareKit) ![ResearchKit](https://github.com/ResearchKit/ResearchKit).
+
+## Skills
+
+- [x] iOS - (![Objective-C](https://github.com/matteocrippa?tab=repositories&q=&type=&language=objective-c), ![Swift](https://github.com/matteocrippa?tab=repositories&q=&type=&language=swift))
+- [x] Android - (![Kotlin](https://github.com/matteocrippa?tab=repositories&q=&type=&language=kotlin))
+- [x] Node.js - (AWS Lambda, Express.JS)
+- [x] Deno
+- [x] Vue
+
+## Certification
+
+- [x] ISO 9001
+- [x] ISO/IEC 27001
+- [x] Scrum Master
+
+## Github Stat
+
+### Overall
 
 ![Matteo Crippa's github stats](https://github-readme-stats.vercel.app/api?username=matteocrippa&show_icons=true&count_private=true)
 
