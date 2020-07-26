@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 It has all started with an 🖥️ IBM 8088 and a 📘 book about Basic. And a few 5.12" 💾 floppy disks.
 
-Speaker & tech advisor during developer conferences. 
+Speaker & tech advisor during developer conferences (_Frontiers of Interaction 15, Unicredit Appathon 15, Mobile Trends Conference 16, iOSCon 16, MobOS 17_).
+Creator of ![Awesome Swift](https://github.com/matteocrippa/awesome-swift) during **WWDC 2014**.
 
-Creatore of ![Awesome Swift](https://github.com/matteocrippa/awesome-swift) just as soon back from WWDC 2014.
-
-Proud contributor in different open source projects ![Flutter](https://github.com/flutter/flutter) ![CareKit](https://github.com/carekit-apple/CareKit) ![ResearchKit](https://github.com/ResearchKit/ResearchKit).
+Proud contributor in different open source projects ![Flutter](https://github.com/flutter/flutter), ![CareKit](https://github.com/carekit-apple/CareKit), ![ResearchKit](https://github.com/ResearchKit/ResearchKit).
 
 ## Skills
 
@@ -33,11 +32,14 @@ Proud contributor in different open source projects ![Flutter](https://github.co
 
 ## Certification
 
+- [x] ![Node.js Contributor](https://www.youracclaim.com/badges/9b5aba92-6d4e-4e6e-bf7e-ca6b9d9b9ccf/linked_in_profile)
+- [x] ![LoopBack Developer](https://www.youracclaim.com/badges/cbdb1a17-7285-4e37-a93d-89d1ea2176dc/linked_in_profile)
 - [x] ISO 9001
 - [x] ISO/IEC 27001
 - [x] Scrum Master
+- [x] Google Analytics Individual Qualification
 
-## Github Stat
+## Github Stats
 
 ### Overall
 
