@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **matteocrippa/matteocrippa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Matteo Crippa's github stats](https://github-readme-stats.vercel.app/api?username=matteocrippa&show_icons=true&theme=dark)
+## Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteocrippa)](https://github.com/matteocrippa)
+### Overall stats
+
+![Matteo Crippa's github stats](https://github-readme-stats.vercel.app/api?username=matteocrippa&show_icons=true&count_private=true)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteocrippa&count_private=true)](https://github.com/matteocrippa)
