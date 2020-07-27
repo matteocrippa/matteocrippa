@@ -48,10 +48,5 @@ Proud contributor in different open source projects ![Flutter](https://github.co
 
 ## Github Stats
 
-### Overall
-
 ![Matteo Crippa's github stats](https://github-readme-stats.vercel.app/api?username=matteocrippa&show_icons=true&count_private=true)
-
-### Top Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteocrippa&count_private=true&hide=c)](https://github.com/matteocrippa)
