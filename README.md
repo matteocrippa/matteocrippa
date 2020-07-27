@@ -39,6 +39,13 @@ Proud contributor in different open source projects ![Flutter](https://github.co
 - [x] Scrum Master
 - [x] Google Analytics Individual Qualification
 
+## Links
+
+- ![HackerRank](https://www.hackerrank.com/matteo_crippa)
+- ![PluralSight](https://app.pluralsight.com/profile/matteo-crippa)
+- ![Stack Overflow](https://stackoverflow.com/users/187754/matteo-crippa)
+- ![YourAcclaim](https://www.youracclaim.com/users/matteo-crippa/badges)
+
 ## Github Stats
 
 ### Overall
