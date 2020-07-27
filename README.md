@@ -26,12 +26,12 @@ So far I worked with awesome team mate in: _NewTarget Web_, _MIT Mobile Lab_, _!
 
 ## Skills
 
-- [x] iOS - (![Objective-C](https://github.com/matteocrippa?tab=repositories&q=&type=&language=objective-c), ![Swift](https://github.com/matteocrippa?tab=repositories&q=&type=&language=swift))
-- [x] Android - (![Kotlin](https://github.com/matteocrippa?tab=repositories&q=&type=&language=kotlin))
-- [x] Node.js - (Express.js, AWS Lambda)
-- [x] ![Deno](https://github.com/matteocrippa?tab=repositories&q=&type=&language=typescript)
-- [x] ![Flutter](https://github.com/matteocrippa?tab=repositories&q=&type=&language=dart)
-- [x] Vue
+- iOS - (![Objective-C](https://github.com/matteocrippa?tab=repositories&q=&type=&language=objective-c), ![Swift](https://github.com/matteocrippa?tab=repositories&q=&type=&language=swift))
+- Android - (![Kotlin](https://github.com/matteocrippa?tab=repositories&q=&type=&language=kotlin))
+- Node.js - (Express.js, AWS Lambda)
+- ![Deno](https://github.com/matteocrippa?tab=repositories&q=&type=&language=typescript)
+- ![Flutter](https://github.com/matteocrippa?tab=repositories&q=&type=&language=dart)
+- Vue.js
 
 ## Certification
 
