@@ -20,7 +20,9 @@ It has all started with an 🖥️ IBM 8088 and a 📘 book about Basic. And a f
 Speaker & tech advisor during developer conferences (_Frontiers of Interaction 15, Unicredit Appathon 15, Mobile Trends Conference 16, iOSCon 16, MobOS 17_).
 Creator of ![Awesome Swift](https://github.com/matteocrippa/awesome-swift) during **WWDC 2014**.
 
-Proud contributor in different open source projects ![Flutter](https://github.com/flutter/flutter), ![CareKit](https://github.com/carekit-apple/CareKit), ![ResearchKit](https://github.com/ResearchKit/ResearchKit).
+Proud maintainer & contributor in different open source projects ![Flutter](https://github.com/flutter/flutter), ![CareKit](https://github.com/carekit-apple/CareKit), ![ResearchKit](https://github.com/ResearchKit/ResearchKit).
+
+So far I worked with awesome team mate in: _NewTarget Web_, MIT Mobile Lab_, _![Awake](https://awake.us)_, _![MMN](https://www.mmn.it/)_, _![MindTek](https://www.mindtek.it/), DiGiSi, _![Boostco.de](https://boostco.de)_, _![.intent](https://withintent.com), _![Proximi.io](https://proximi.io)_.
 
 ## Skills
 
