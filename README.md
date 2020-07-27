@@ -22,7 +22,7 @@ Creator of ![Awesome Swift](https://github.com/matteocrippa/awesome-swift) durin
 
 Proud maintainer & contributor in different open source projects ![Flutter](https://github.com/flutter/flutter), ![CareKit](https://github.com/carekit-apple/CareKit), ![ResearchKit](https://github.com/ResearchKit/ResearchKit).
 
-So far I worked with awesome team mate in: _NewTarget Web_, MIT Mobile Lab_, _![Awake](https://awake.us)_, _![MMN](https://www.mmn.it/)_, _![MindTek](https://www.mindtek.it/), DiGiSi, _![Boostco.de](https://boostco.de)_, _![.intent](https://withintent.com)_, _![Proximi.io](https://proximi.io)_.
+So far I worked with awesome team mate in: _NewTarget Web_, _MIT Mobile Lab_, _![Awake](https://awake.us)_, _![MMN](https://www.mmn.it/)_, _![MindTek](https://www.mindtek.it/), DiGiSi, _![Boostco.de](https://boostco.de)_, _![.intent](https://withintent.com)_, _![Proximi.io](https://proximi.io)_.
 
 ## Skills
 
