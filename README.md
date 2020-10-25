@@ -18,25 +18,25 @@ Here are some ideas to get you started:
 It has all started with an 🖥️ IBM 8088 and a 📘 book about Basic. And a few 5.12" 💾 floppy disks.
 
 Speaker & tech advisor during developer conferences (_Frontiers of Interaction 15, Unicredit Appathon 15, Mobile Trends Conference 16, iOSCon 16, MobOS 17_).
-Creator of ![Awesome Swift](https://github.com/matteocrippa/awesome-swift) during **WWDC 2014**.
+Creator of [Awesome Swift](https://github.com/matteocrippa/awesome-swift) during **WWDC 2014**.
 
-Proud maintainer & contributor in different open source projects ![Flutter](https://github.com/flutter/flutter), ![CareKit](https://github.com/carekit-apple/CareKit), ![ResearchKit](https://github.com/ResearchKit/ResearchKit).
+Proud maintainer & contributor in different open source projects [Flutter](https://github.com/flutter/flutter), [CareKit](https://github.com/carekit-apple/CareKit), ![ResearchKit](https://github.com/ResearchKit/ResearchKit).
 
-So far I worked with awesome team mate in: _NewTarget Web_, _MIT Mobile Lab_, _![Awake](https://awake.us)_, _![MMN](https://www.mmn.it/)_, _![MindTek](https://www.mindtek.it/)_, _DiGiSi_, _![Boostco.de](https://boostco.de)_, _![.intent](https://withintent.com)_, _![Proximi.io](https://proximi.io)_.
+So far I worked with awesome team mate in: _NewTarget Web_, _MIT Mobile Lab_, _[Awake](https://awake.us)_, _[MMN](https://www.mmn.it/)_, _[MindTek](https://www.mindtek.it/)_, _DiGiSi_, _[Boostco.de](https://boostco.de)_, _[.intent](https://withintent.com)_, _[Proximi.io](https://proximi.io)_.
 
 ## Skills
 
-- iOS - (![Objective-C](https://github.com/matteocrippa?tab=repositories&q=&type=&language=objective-c), ![Swift](https://github.com/matteocrippa?tab=repositories&q=&type=&language=swift))
-- Android - (![Kotlin](https://github.com/matteocrippa?tab=repositories&q=&type=&language=kotlin))
+- iOS - ([Objective-C](https://github.com/matteocrippa?tab=repositories&q=&type=&language=objective-c), [Swift](https://github.com/matteocrippa?tab=repositories&q=&type=&language=swift))
+- Android - ([Kotlin](https://github.com/matteocrippa?tab=repositories&q=&type=&language=kotlin))
 - Node.js - (Express.js, AWS Lambda)
-- ![Deno](https://github.com/matteocrippa?tab=repositories&q=&type=&language=typescript)
-- ![Flutter](https://github.com/matteocrippa?tab=repositories&q=&type=&language=dart)
+- [Deno](https://github.com/matteocrippa?tab=repositories&q=&type=&language=typescript)
+- [Flutter](https://github.com/matteocrippa?tab=repositories&q=&type=&language=dart)
 - Vue.js
 
 ## Certification
 
-- [x] ![Node.js Contributor](https://www.youracclaim.com/badges/9b5aba92-6d4e-4e6e-bf7e-ca6b9d9b9ccf/linked_in_profile)
-- [x] ![LoopBack Developer](https://www.youracclaim.com/badges/cbdb1a17-7285-4e37-a93d-89d1ea2176dc/linked_in_profile)
+- [x] [Node.js Contributor](https://www.youracclaim.com/badges/9b5aba92-6d4e-4e6e-bf7e-ca6b9d9b9ccf/linked_in_profile)
+- [x] [LoopBack Developer](https://www.youracclaim.com/badges/cbdb1a17-7285-4e37-a93d-89d1ea2176dc/linked_in_profile)
 - [x] ISO 9001
 - [x] ISO/IEC 27001
 - [x] Scrum Master
@@ -44,10 +44,10 @@ So far I worked with awesome team mate in: _NewTarget Web_, _MIT Mobile Lab_, _!
 
 ## Links
 
-- ![HackerRank](https://www.hackerrank.com/matteo_crippa)
-- ![PluralSight](https://app.pluralsight.com/profile/matteo-crippa)
-- ![Stack Overflow](https://stackoverflow.com/users/187754/matteo-crippa)
-- ![YourAcclaim](https://www.youracclaim.com/users/matteo-crippa/badges)
+- [HackerRank](https://www.hackerrank.com/matteo_crippa)
+- [PluralSight](https://app.pluralsight.com/profile/matteo-crippa)
+- [Stack Overflow](https://stackoverflow.com/users/187754/matteo-crippa)
+- [YourAcclaim](https://www.youracclaim.com/users/matteo-crippa/badges)
 
 ## Github Stats
 
