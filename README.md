@@ -27,8 +27,9 @@ So far I worked with those awesome teams:
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png) _[MIT Mobile Lab]()_
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png) _[Awake](https://awake.us)_
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/GB.png) _[Bowers & Wilkins](https://www.bowerswilkins.com)_
-- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/CN.png) _[Candy](https://candy.it)_
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/CN.png) _[Candy](https://corporate.haier-europe.com/en/)_
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[MMN](https://www.mmn.it)_
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[QuelliDellaPizza](https://quellidellapizza.it/)_
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[MindTek](https://www.mindtek.it)_
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[Shado](https://shado.tv)_
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _DiGiSi_
