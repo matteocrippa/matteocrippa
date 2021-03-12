@@ -26,6 +26,7 @@ So far I worked with those awesome teams:
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _NewTarget Web_ 
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png) _[MIT Mobile Lab]()_
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png) _[Awake](https://awake.us)_
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/UK.png) _[Bowers & Wilkins](https://www.bowerswilkins.com)
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[MMN](https://www.mmn.it)_
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[MindTek](https://www.mindtek.it)_
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[Shado](https://shado.tv)_
