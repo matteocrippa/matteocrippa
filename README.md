@@ -7,11 +7,20 @@
 It has all started in 1987 with an 🖥️ IBM 8088 and a 📘 book about Basic. And, off-course, a few 5.12" 💾 floppy disks.
 
 Speaker & tech advisor during developer conferences (_Frontiers of Interaction 15, Unicredit Appathon 15, Mobile Trends Conference 16, iOSCon 16, MobOS 17_).
-Creator of [Awesome Swift](https://github.com/matteocrippa/awesome-swift) during **WWDC 2014**.
+Creator of [Awesome Swift](https://github.com/matteocrippa/awesome-swift) just after attending **WWDC 2014**.
 
-Happy maintainer & contributor in different open source projects [Flutter](https://github.com/flutter/flutter), [CareKit](https://github.com/carekit-apple/CareKit), ![ResearchKit](https://github.com/ResearchKit/ResearchKit), ![MapLibre](https://github.com/maplibre/maplibre-gl-native).
+Happy maintainer & contributor in different open source projects: [Flutter](https://github.com/flutter/flutter), [CareKit](https://github.com/carekit-apple/CareKit), [ResearchKit](https://github.com/ResearchKit/ResearchKit), [MapLibre](https://github.com/maplibre/maplibre-gl-native).
 
-So far I worked with awesome team mate in: _NewTarget Web_, _MIT Mobile Lab_, _[Awake](https://awake.us)_, _[MMN](https://www.mmn.it/)_, _[MindTek](https://www.mindtek.it/)_, _DiGiSi_, _[Boostco.de](https://boostco.de)_, _[.intent](https://withintent.com)_, _[Proximi.io](https://proximi.io)_.
+So far I worked with awesome teams in: 
+- _NewTarget Web_ ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png)
+- _MIT Mobile Lab_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png)
+- _[Awake](https://awake.us)_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png)
+- _[MMN](https://www.mmn.it)_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png)
+- _[MindTek](https://www.mindtek.it)_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png)
+- _DiGiSi_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png)
+- _[Boostco.de](https://boostco.de)_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png)
+- _[.intent](https://withintent.com)_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/PL.png)
+- _[Proximi.io](https://proximi.io)_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/FI.png)
 
 ## Skills
 
