@@ -11,17 +11,6 @@ Creator of [Awesome Swift](https://github.com/matteocrippa/awesome-swift) just a
 
 Happy maintainer & contributor in different open source projects: [Flutter](https://github.com/flutter/flutter), [CareKit](https://github.com/carekit-apple/CareKit), [ResearchKit](https://github.com/ResearchKit/ResearchKit), [MapLibre](https://github.com/maplibre/maplibre-gl-native).
 
-So far I worked with awesome teams in: 
-- _NewTarget Web_ ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png)
-- _MIT Mobile Lab_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png)
-- _[Awake](https://awake.us)_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png)
-- _[MMN](https://www.mmn.it)_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png)
-- _[MindTek](https://www.mindtek.it)_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png)
-- _DiGiSi_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png)
-- _[Boostco.de](https://boostco.de)_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png)
-- _[.intent](https://withintent.com)_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/PL.png)
-- _[Proximi.io](https://proximi.io)_  ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/FI.png)
-
 ## Skills
 
 - iOS - ([Objective-C](https://github.com/matteocrippa?tab=repositories&q=&type=&language=objective-c), [Swift](https://github.com/matteocrippa?tab=repositories&q=&type=&language=swift))
@@ -30,6 +19,20 @@ So far I worked with awesome teams in:
 - [Deno](https://github.com/matteocrippa?tab=repositories&q=&type=&language=typescript)
 - [Flutter](https://github.com/matteocrippa?tab=repositories&q=&type=&language=dart)
 - Vue.js
+
+## Collaboration
+
+So far I worked with those awesome teams: 
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _NewTarget Web_ 
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png) _[MIT Mobile Lab]()_
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png) _[Awake](https://awake.us)_
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[MMN](https://www.mmn.it)_
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[MindTek](https://www.mindtek.it)_
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[Shado](https://shado.tv)_
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _DiGiSi_
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[Boostco.de]_
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/PL.png) _[.intent](https://withintent.com)_  
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/FI.png) _[Proximi.io](https://proximi.io)_
 
 ## Certification
 
