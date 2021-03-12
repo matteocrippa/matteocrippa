@@ -11,7 +11,7 @@ Creator of [Awesome Swift](https://github.com/matteocrippa/awesome-swift) just a
 
 Happy maintainer & contributor in different open source projects: [Flutter](https://github.com/flutter/flutter), [CareKit](https://github.com/carekit-apple/CareKit), [ResearchKit](https://github.com/ResearchKit/ResearchKit), [MapLibre](https://github.com/maplibre/maplibre-gl-native).
 
-## Skills
+## Skill
 
 - iOS - ([Objective-C](https://github.com/matteocrippa?tab=repositories&q=&type=&language=objective-c), [Swift](https://github.com/matteocrippa?tab=repositories&q=&type=&language=swift))
 - Android - ([Kotlin](https://github.com/matteocrippa?tab=repositories&q=&type=&language=kotlin))
@@ -22,7 +22,8 @@ Happy maintainer & contributor in different open source projects: [Flutter](http
 
 ## Collaboration
 
-So far I worked with those awesome teams: 
+So far I worked with some awesome teams: 
+
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _NewTarget Web_ 
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png) _[MIT Mobile Lab]()_
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png) _[Awake](https://awake.us)_
