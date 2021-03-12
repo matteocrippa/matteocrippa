@@ -30,7 +30,7 @@ So far I worked with those awesome teams:
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[MindTek](https://www.mindtek.it)_
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[Shado](https://shado.tv)_
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _DiGiSi_
-- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[Boostco.de]_
+- ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _Boostco.de_
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/PL.png) _[.intent](https://withintent.com)_  
 - ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/FI.png) _[Proximi.io](https://proximi.io)_
 
