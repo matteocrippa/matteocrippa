@@ -10,7 +10,7 @@ Speaker & tech advisor during developer conferences (_Frontiers of Interaction 1
 
 Creator of [Awesome Swift](https://github.com/matteocrippa/awesome-swift) just after attending **WWDC 2014**.
 
-Happy maintainer & contributor in different open source projects: [Flutter](https://github.com/flutter/flutter), [CareKit](https://github.com/carekit-apple/CareKit), [ResearchKit](https://github.com/ResearchKit/ResearchKit), [MapLibre](https://github.com/maplibre/maplibre-gl-native).
+Contributor in open source projects: [Flutter](https://github.com/flutter/flutter), [CareKit](https://github.com/carekit-apple/CareKit), [ResearchKit](https://github.com/ResearchKit/ResearchKit), [MapLibre](https://github.com/maplibre/maplibre-gl-native).
 
 ## Skill
 
