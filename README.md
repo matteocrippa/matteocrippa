@@ -4,11 +4,12 @@
 
 ## Who am I
 
-It has all started in 1987: with an 🖥️ IBM 8088, a 📘 book about Basic and a few 5.12" 💾 disks.
+It has all started in 1987, when I was 4.
+With an 🖥️ IBM 8088 Compatible computer, a few 5.12" 💾 disks and, a 📘 book about Basic.
 
 Speaker & tech advisor during developer conferences (_Frontiers of Interaction 15, Unicredit Appathon 15, Mobile Trends Conference 16, iOSCon 16, MobOS 17_).
 
-Creator of [Awesome Swift](https://github.com/matteocrippa/awesome-swift) just after attending **WWDC 2014**.
+Creator of [Awesome Swift](https://github.com/matteocrippa/awesome-swift) just after attending Apple **WWDC 2014**.
 
 Contributor in open source projects: [Flutter](https://github.com/flutter/flutter), [CareKit](https://github.com/carekit-apple/CareKit), [ResearchKit](https://github.com/ResearchKit/ResearchKit), [MapLibre](https://github.com/maplibre/maplibre-gl-native).
 
