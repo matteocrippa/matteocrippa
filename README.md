@@ -2,6 +2,27 @@
 **matteocrippa/matteocrippa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+```swift
+enum Me {
+    case fullName(name: String, surname: String)
+    case skills([String])
+
+    func sayIt() {
+        switch self {
+        case .fullName(let name, let surname):
+            print("Hi, I'm \(name) \(surname)")
+        case .skills(let skillset):
+            let skills = skillset.joined(separator: ", ")
+            print("I can help you with: \(skills)")
+        }
+    }
+}
+
+Me.fullName(name: "Matteo", surname: "Crippa").sayIt()
+Me.skills(["iOS", "Android", "Node.js", "Vue.js"]).sayIt()
+
+```
+
 ## Who am I
 
 It has all started in 1987, when I was 4.
