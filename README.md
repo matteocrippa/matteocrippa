@@ -10,7 +10,7 @@
  "lastName": "Crippa",
  "role": "Senior Software Engineer",
  "skills": [ "iOS", "Android", "Node.js", "Deno", "Vue.js" ],
- "bio": "In love with computer since I was 4 years old, thanks to a big 5.12" floppy disk."
+ "bio": "In love with computer since I was 4 years old, thanks to a big 5.12\" floppy disk."
 }
 
 ```
