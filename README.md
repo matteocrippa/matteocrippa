@@ -4,24 +4,14 @@
 
 ## Me
 
-```swift
-enum Me {
-    case fullName(name: String, surname: String)
-    case skills([String])
-
-    func sayIt() {
-        switch self {
-        case .fullName(let name, let surname):
-            print("Hi, I'm \(name) \(surname)")
-        case .skills(let skillset):
-            let skills = skillset.joined(separator: ", ")
-            print("I can help you with: \(skills)")
-        }
-    }
+```json
+{
+ "firstName": "Matteo",
+ "lastName": "Crippa",
+ "role": "Senior Software Engineer",
+ "skills": [ "iOS", "Android", "Node.js", "Deno", "Vue.js" ],
+ "bio": "In love with computer since I was 4 years old, thanks to a big 5.12" floppy disk."
 }
-
-Me.fullName(name: "Matteo", surname: "Crippa").sayIt()
-Me.skills(["iOS", "Android", "Node.js", "Vue.js"]).sayIt()
 
 ```
 
