@@ -53,4 +53,5 @@ So far I worked with some awesome teams:
 ## Github Stats
 
 ![Matteo Crippa's github stats](https://github-readme-stats.vercel.app/api?username=matteocrippa&show_icons=true&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteocrippa&count_private=true&hide=c)](https://github.com/matteocrippa)
