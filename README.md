@@ -52,6 +52,6 @@ So far I worked with some awesome teams:
 
 ## Github Stats
 
-![Matteo Crippa's github stats](https://github-readme-stats.vercel.app/api?username=matteocrippa&show_icons=true&count_private=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matteocrippa&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteocrippa&count_private=true&hide=c)](https://github.com/matteocrippa)
