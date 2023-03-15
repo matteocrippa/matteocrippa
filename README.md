@@ -1,6 +1,15 @@
-<!--
-**matteocrippa/matteocrippa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Me
+
+```json
+{
+ "firstName": "Matteo",
+ "lastName": "Crippa",
+ "role": "Senior Software Engineer",
+ "skills": [ "iOS", "Android", "Node.js", "Deno", "Vue.js" ],
+ "bio": "In love with computer since I was 4 years old, thanks to a big 5.12\" floppy disk."
+}
+
+```
 
 ## Who am I
 
@@ -26,9 +35,8 @@ Contributor in open source projects: [Flutter](https://github.com/flutter/flutte
 
 So far I worked with some awesome teams: 
 
-|        |   |     |
-| ----------- | ----------- | -----------   |
 | ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _NewTarget Web_  | ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png) _[MIT Mobile Lab]()_ | ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/US.png) _[Awake](https://awake.us)_ |
+| :- | :- | :- |
 | ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/GB.png) _[Bowers & Wilkins](https://www.bowerswilkins.com)_ | ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/CN.png) _[Haier](https://corporate.haier-europe.com/en/)_ | ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[MMN](https://www.mmn.it)_ |
 | ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[QuelliDellaPizza](https://quellidellapizza.it/)_| ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[MindTek](https://www.mindtek.it)_| ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _[Shado](https://shado.tv)_ |
 | ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _DiGiSi_ | ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/IT.png) _Boostco.de_ | ![](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags-iso/flat/24/PL.png) _[.intent](https://withintent.com)_ |   
