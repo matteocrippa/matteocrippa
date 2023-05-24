@@ -3,7 +3,7 @@
 #### I am Matteo, the Mobile Team Leader at 🔴 [Intent](https://withintent.com).
 
 🚀 Creator of: [Awesome Swift](https://github.com/matteocrippa/awesome-swift).<br>
-✍️ Contributor in: [Flutter](https://github.com/flutter/flutter), [CareKit](https://github.com/carekit-apple/CareKit), [ResearchKit](https://github.com/ResearchKit/ResearchKit), [MapLibre](https://github.com/maplibre/maplibre-gl-native).
+✍️ Contributor in: [Flutter](https://github.com/flutter/flutter), [CareKit](https://github.com/carekit-apple/CareKit), [ResearchKit](https://github.com/ResearchKit/ResearchKit), [MapLibre](https://github.com/maplibre/maplibre-gl-native), [Fuel](https://github.com/kittinunf/fuel), [Vapor](https://github.com/vapor/vapor).
 
 <!-- List your skills, link them to their repository so it's easy to browse them -->
 🔬 I usually develop using 
