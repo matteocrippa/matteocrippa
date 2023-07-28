@@ -17,10 +17,8 @@ Vue.js
 ## 🎤 Speaker
 <!-- If you spoke during any conference, add a reference here -->
 
-_🔮 Upcoming:_<br><br>
 🌍 Mobile DevOps Summit - 2023 <br>
-
-_🕤 Past:_<br><br>
+<br>
 🇷🇴 MobOS - 2017<br>
 🇬🇧 iOSCon - 2016<br>
 🇵🇱 Mobile Trends Conference - 2016<br>
@@ -37,7 +35,7 @@ So far I worked with some awesome teams:
 | 🇬🇧 _[Bowers & Wilkins](https://www.bowerswilkins.com)_ | 🇨🇳 _[Haier](https://corporate.haier-europe.com/en/)_ | 🇮🇹 _[MMN](https://www.mmn.it)_ |
 | 🇮🇹 _[QuelliDellaPizza](https://quellidellapizza.it/)_| 🇮🇹 _[MindTek](https://www.mindtek.it)_| 🇮🇹 _[Shado](https://shado.tv)_ |
 | 🇮🇹 _DiGiSi_ | 🇮🇹 _Boostco.de_ | 🇫🇮 _[Proximi.io](https://proximi.io)_ |   
-| 🇵🇱 _[.intent](https://withintent.com)_ | |
+| 🇺🇸 _[Bose](https://bose.com)_ | 🇵🇱 _[.intent](https://withintent.com)_ |
 
 ## 🪪 Certification
 <!-- List your certifications, if possible add a link to confirm them -->
