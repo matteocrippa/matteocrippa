@@ -17,11 +17,12 @@ Vue.js
 ## 🎤 Speaker
 <!-- If you spoke during any conference, add a reference here -->
 
+🌍 Mobile DevOps Summit - 2023 <br>
+🇷🇴 MobOS - 2017<br>
+🇬🇧 iOSCon - 2016<br>
+🇵🇱 Mobile Trends Conference - 2016<br>
 🇮🇹 Frontiers of Interaction - 2015<br>
 🇮🇹 Unicredit Appathon - 2015<br>
-🇵🇱 Mobile Trends Conference - 2016<br>
-🇬🇧 iOSCon - 2016<br>
-🇷🇴 MobOS - 2017<br>
 
 
 ## 🤝 Collaboration
