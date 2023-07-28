@@ -25,7 +25,6 @@ Vue.js
 🇮🇹 Frontiers of Interaction - 2015<br>
 🇮🇹 Unicredit Appathon - 2015<br>
 
-
 ## 🤝 Collaboration
 
 So far I worked with some awesome teams: 
