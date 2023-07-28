@@ -17,10 +17,10 @@ Vue.js
 ## 🎤 Speaker
 <!-- If you spoke during any conference, add a reference here -->
 
-_🔮 Upcoming:_<br>
+_🔮 Upcoming:_<br><br>
 🌍 Mobile DevOps Summit - 2023 <br>
 
-_🕤 Past:_<br>
+_🕤 Past:_<br><br>
 🇷🇴 MobOS - 2017<br>
 🇬🇧 iOSCon - 2016<br>
 🇵🇱 Mobile Trends Conference - 2016<br>
