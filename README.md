@@ -1,11 +1,9 @@
 ## 👋 Ciao!
-<!-- Add a quick bio about you, use emojis to emphatize concepts -->
 #### I am Matteo, the Mobile Team Leader at 🔴 [Intent](https://withintent.com).
 
 🚀 Creator of: [Awesome Swift](https://github.com/matteocrippa/awesome-swift).<br>
 ✍️ Contributor in: [Flutter](https://github.com/flutter/flutter), [CareKit](https://github.com/carekit-apple/CareKit), [ResearchKit](https://github.com/ResearchKit/ResearchKit), [MapLibre](https://github.com/maplibre/maplibre-gl-native), [Fuel](https://github.com/kittinunf/fuel), [Vapor](https://github.com/vapor/vapor).
 
-<!-- List your skills, link them to their repository so it's easy to browse them -->
 🔬 I usually develop using 
 iOS - ([Objective-C](https://github.com/matteocrippa?tab=repositories&q=&type=&language=objective-c), [Swift](https://github.com/matteocrippa?tab=repositories&q=&type=&language=swift)),
 Android - ([Kotlin](https://github.com/matteocrippa?tab=repositories&q=&type=&language=kotlin)),
@@ -15,10 +13,8 @@ Node.js - (Express.js, AWS Lambda),
 Vue.js
 
 ## 🎤 Speaker
-<!-- If you spoke during any conference, add a reference here -->
 
 🌍 Mobile DevOps Summit - 2023 <br>
-<br>
 🇷🇴 MobOS - 2017<br>
 🇬🇧 iOSCon - 2016<br>
 🇵🇱 Mobile Trends Conference - 2016<br>
