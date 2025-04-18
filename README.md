@@ -14,6 +14,7 @@ Vue.js
 
 ## 🎤 Speaker
 
+🌍 Conf42 - 2024 <br>
 🌍 Mobile DevOps Summit - 2023 <br>
 🇷🇴 MobOS - 2017<br>
 🇬🇧 iOSCon - 2016<br>
